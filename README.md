@@ -8,6 +8,10 @@ Desktop Assistant written in python that takes voice input and performs tasks gi
 
 ---
 ### About Packages
-Install the packages mentioned in [packages.txt](https://github.com/snehalmastud/Desktop_Assistant/blob/master/packages.txt)
+-Install the packages mentioned in [packages.txt](https://github.com/snehalmastud/Desktop_Assistant/blob/master/packages.txt)
+e.g:
+'''
+pip install pyaudio
+'''
 
 ---
