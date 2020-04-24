@@ -46,6 +46,11 @@ python snehal.py
    - Say anything like `Calculate`.
 
 ---
+
+### Note
+Features works on Windows n Python 3.x
+
+---
 ## Hey there!
 ![image](https://miro.medium.com/max/534/0*_pWYv_PSM3zqE3dV.gif)
 
