@@ -320,7 +320,7 @@ def main():
             talkToMe('Hiiii My Name is Chitti I am an Artificial Intilligence Designed by Snehal Mastud')
 
         elif  'tell me your name' in command:
-            talkToMe('My Name is jarvin 1.0')
+            talkToMe('My Name is Chitti')
 
         elif 'tell me my name' in command:
             talkToMe('Your Name Is Snehal Mastud')
