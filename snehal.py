@@ -317,7 +317,7 @@ def main():
             talkToMe('thats good ')
 
         elif 'tell me about you' in command:
-            talkToMe('Hiiii My Name is jarvin 1.0 I am an Artificial Intilligence Designed by Snehal Mastud')
+            talkToMe('Hiiii My Name is Chitti I am an Artificial Intilligence Designed by Snehal Mastud')
 
         elif  'tell me your name' in command:
             talkToMe('My Name is jarvin 1.0')
