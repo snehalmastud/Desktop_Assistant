@@ -25,6 +25,14 @@ pip install gTTS
 python snehal.py
 ```
 
+---
+### Features present and accessing them:-
+- [x] <b>Google search</b>
+   - Say anything like `Who is Prime Minister of India?`.
+- [x] <b>Translate</b>
+   - Say anything like `Translate Who are you in Bengali`.
+ 
+
 
 
 ---
