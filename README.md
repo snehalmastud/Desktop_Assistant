@@ -47,6 +47,6 @@ python snehal.py
 
 ---
 ## Hello
-![image](https://cdn.pixilart.com/photos/large/8a96911e10c0c57.gif)
+![image](https://miro.medium.com/max/534/0*_pWYv_PSM3zqE3dV.gif)
 
 ---
