@@ -11,9 +11,16 @@ Desktop Assistant written in python that takes voice input and performs tasks gi
 -Install the packages mentioned in [packages.txt](https://github.com/snehalmastud/Desktop_Assistant/blob/master/packages.txt).
 
 e.g:
-
 ```bash
 pip install pygame
 ```
+```bash
+pip install speech_recognition
+```
+```bash
+pip install gTTS
+```
+
+
 
 ---
