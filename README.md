@@ -20,6 +20,10 @@ pip install speech_recognition
 ```bash
 pip install gTTS
 ```
+-Usage
+```bash
+python snehal.py
+```
 
 
 
