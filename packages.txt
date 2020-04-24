@@ -1,0 +1,8 @@
+Install following packages:
+1. gTTS
+2. google
+3. pygame
+4. pyaudio
+5. translate
+6. speech_recognition
+7. mixer
