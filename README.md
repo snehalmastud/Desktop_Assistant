@@ -31,8 +31,18 @@ python snehal.py
    - Say anything like `Who is Prime Minister of India?`.
 - [x] <b>Translate</b>
    - Say anything like `Translate Who are you in Bengali`.
- 
-
-
+- [x] <b>Alarm</b>
+   - Say anything like `Set Alarm`.
+- [x] <b>Music</b>
+   - Say anything like `Play Music`.
+- [x] <b>Open</b>
+   - Say anything like `Open Notepad`.
+   - Say anything like `Open Google`.
+- [x] <b>Date and Time</b>
+   - Say anything like `what is date?`.
+- [x] <b>Joke</b>
+   - Say anything like `Tell me a Joke`.
+- [x] <b>Arithmetic Operations</b>
+   - Say anything like `Calculate`.
 
 ---
