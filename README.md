@@ -13,6 +13,7 @@ Desktop Assistant written in python that takes voice input and performs tasks gi
 e.g:
 ```bash
 pip install pygame
+```
 
 - Usage:
 ```bash
