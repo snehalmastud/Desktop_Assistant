@@ -13,13 +13,7 @@ Desktop Assistant written in python that takes voice input and performs tasks gi
 e.g:
 ```bash
 pip install pygame
-```
-```bash
-pip install speech_recognition
-```
-```bash
-pip install gTTS
-```
+
 - Usage:
 ```bash
 python snehal.py
